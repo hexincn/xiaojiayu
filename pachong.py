@@ -77,3 +77,11 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+    """---------------------
+最近学习python，写了个简单的爬虫，分享一下
+程序交流板块没权限发帖，就发到这里了www.t00ls.net, r" j/ m0 |( V! K+ i" R
+
+使用的环境：www.t00ls.net! y' s7 K. G, h( @7 n9 Q
+1.python2.7+linux----------------
+"""
